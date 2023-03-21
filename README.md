@@ -6,3 +6,7 @@
 
 ## Here you can watch how a linguist becomes a web developer.
 
+![webdev](https://midriffinfosolution.org/wp-content/uploads/2022/06/Web-Development-1.jpg)
+
+
+
