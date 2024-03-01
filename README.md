@@ -9,7 +9,7 @@
 
 
 ## Here you can watch how a linguist becomes a web developer.
-* ## Languages and Tools befor ##
+* ## Languages and Tools before ##
 <p align="center"> <img  width="36" height="34" src="assets/de.svg" />DE <img width="36" height="34" src="assets/cz.svg" /> CZ <img width="36" height="34" src="assets/gb.svg" /> EN <img width="36" height="34" src="assets/ru.svg" /> RU <img width="36" height="34" src="assets/es.svg" /> ES <img width="36" height="34" src="assets/ua.svg" /> UA
   </p>
 
